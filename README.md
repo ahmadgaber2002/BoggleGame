@@ -20,7 +20,7 @@ A Java-based Boggle game featuring a user-friendly graphical interface built usi
 ### Installation
  **Clone the repository:**
    ```bash
-   git clone https://github.com/ahmadgaber2002/BoggleGame.git
+   git clone https://github.com/your-username/BoggleGame.git
    cd BoggleGame
 ```
 
